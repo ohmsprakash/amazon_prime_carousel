@@ -1,0 +1,55 @@
+.d-flex{
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.button{
+  padding: 10px 30px;
+  font-size: 25px;
+  background-color: transparent;
+  border: none;
+}
+.btn{
+  position: absolute;
+  top: 43%;
+}
+.button1{
+  right: 86%;
+  border: none;
+  background-color: transparent;
+}
+.button2{
+  left: 86.5%;
+  border: none;
+  background-color: transparent;
+}
+.common {
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.active {
+  background-color: black;
+}
+.common {
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.active {
+  background-color: black;
+}
+.h1{
+  display: flex;
+  justify-content: center;
+}
+.button3{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
